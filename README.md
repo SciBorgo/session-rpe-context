@@ -1,1 +1,7 @@
-# session-rpe-context
+# Peer presence increases session ratings of perceived exertion
+
+**Objectives:** This study aimed to examine the effect of peer presence on the session rating of perceived exertion (RPE) responses.
+**Design:** Within-participant design.
+**Method:** Fourteen males, with mean (standard deviation) age 22.4 (3.9) years, peak oxygen uptake 48.0 (6.6) mL·kg-1·min-1 and peak power output 330 (44) W, completed an incremental cycling test and three identical experimental sessions, in groups of four or five. Experimental sessions involved 24 min of cycling, whereby the work rate alternated between 40% and 70% peak power output every 3 min. During cycling, heart rate was collected every 3 min, and session-RPE was recorded 10 min after cycling, in three communication contexts: in written form unaccompanied (intrapersonal communication); verbally by the researcher only (interpersonal communication); and in the presence of the training group. Session-RPE was analysed using ordinal regression and heart rate using a linear mixed-effects model, with models fit in a Bayesian framework.
+**Results:** Session-RPE was voted higher when collected in the group's presence compared to when written (odds ratio = 5.3, 95% credible interval = 1.6 to 17.6). On average, the posterior probability that session-RPE was higher in the group setting than when written was 0.57. Session-RPE was not different between the group and verbal, or verbal and written collection contexts.
+**Conclusions:** This study suggests contextual psychosocial inputs influence session-RPE, and highlights the importance of session-RPE users controlling the measurement environment when collecting votes.
